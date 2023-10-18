@@ -4,7 +4,7 @@ Write a Python script that reads the FASTA file, "aligned.fna" provided on canva
 the terminal along with symbols indicating which positions matched. The output of your script should look as
 follows:
 Given the following sequences in a FASTA file,
->seq1
+\>seq1
 ATGCAAGTCGAGCGGATGAAGGGAGCTTGCTCCTGGATTCAGCGGCGGAC
 >seq2
 ATGCAAGTCGAGCGGCAGCACAGAGGAACCTTGGGTGGCGAGCGGCGGAC
